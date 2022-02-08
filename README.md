@@ -4,6 +4,7 @@
 Aplicação para criar salas em que as pessoas possam fazer perguntas anônimas. Ideal para lives e aulas ao vivo.
 
 
+
 ![Página inicial](https://github.com/denner-dbs/RocketQ/blob/master/pini.png)
 
 
